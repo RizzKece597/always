@@ -10,5 +10,12 @@
     "password": "ris-ris",
     "role": "reseller",
     "expiredAt": "2025-09-10T23:59:59Z"
+  },
+  {
+    "username": "stres",
+    "password": "BHUE",
+    "role": "member",
+    "telegram_id": "6677983204",
+    "expiredDate": "2025-10-04T08:41:30.321Z"
   }
 ]
