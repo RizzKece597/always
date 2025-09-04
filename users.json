@@ -22,5 +22,12 @@
     "password": "VFPR",
     "role": "member",
     "expiredDate": "2025-10-04T08:45:37.001Z"
+  },
+  {
+    "username": "seng",
+    "password": "RWSL",
+    "role": "member",
+    "telegram_id": "6677983204",
+    "expiredDate": "2025-10-04T08:50:13.548Z"
   }
 ]
