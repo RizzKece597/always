@@ -16,5 +16,12 @@
     "password": "BHUE",
     "role": "member",
     "expiredDate": "2025-10-04T08:41:30.321Z"
+  },
+  {
+    "username": "cewek",
+    "password": "VFPR",
+    "role": "member",
+    "telegram_id": "6677983204",
+    "expiredDate": "2025-10-04T08:45:37.001Z"
   }
 ]
