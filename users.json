@@ -34,5 +34,11 @@
     "password": "PJQY",
     "role": "member",
     "expiredDate": "2025-10-04T08:58:01.829Z"
+  },
+  {
+    "username": "bot",
+    "password": "QGCA",
+    "role": "member",
+    "expiredDate": "2025-10-04T09:08:07.911Z"
   }
 ]
