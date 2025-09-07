@@ -64,5 +64,12 @@
     "password": "rizz144",
     "role": "member",
     "expiredDate": "2025-10-04T10:18:07.385Z"
+  },
+  {
+    "username": "owner",
+    "password": "owner",
+    "role": "owner",
+    "expiresAt": null,
+    "createdAt": 1757254148836
   }
 ]
