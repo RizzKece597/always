@@ -73,11 +73,11 @@
     "createdAt": 1757254148836
   },
   {
-    "username": "budi",
-    "password": "RIZZORAE",
+    "username": "ngewe",
+    "password": "RIZZBRLQ",
     "role": "member",
-    "expiredAt": null,
-    "createdAt": 1757268041791,
-    "userId": 12345
+    "expiredAt": "2025-10-07T18:02:20.426Z",
+    "createdAt": 1757268140426,
+    "userId": 6677983204
   }
 ]
