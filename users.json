@@ -191,5 +191,13 @@
     "expiredAt": "2025-09-24T11:50:18.741Z",
     "createdAt": 1758109818741,
     "userId": 8206290473
+  },
+  {
+    "username": "fomo",
+    "password": "RIZZTENA",
+    "role": "member",
+    "expiredAt": "2025-09-24T11:57:06.968Z",
+    "createdAt": 1758110226968,
+    "userId": 1447144763
   }
 ]
