@@ -135,5 +135,13 @@
     "expiredAt": "2025-09-24T11:01:32.503Z",
     "createdAt": 1758106892503,
     "userId": 7236125401
+  },
+  {
+    "username": "danz",
+    "password": "RIZZLHVR",
+    "role": "member",
+    "expiredAt": "2025-09-24T11:04:46.390Z",
+    "createdAt": 1758107086390,
+    "userId": 6789936155
   }
 ]
