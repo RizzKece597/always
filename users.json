@@ -95,5 +95,13 @@
     "expiredAt": null,
     "createdAt": 1758101027699,
     "userId": 6677983204
+  },
+  {
+    "username": "bapakgw",
+    "password": "RIZZEODV",
+    "role": "member",
+    "expiredAt": null,
+    "createdAt": 1758101219619,
+    "userId": 6677983204
   }
 ]
