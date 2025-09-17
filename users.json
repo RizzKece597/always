@@ -87,5 +87,13 @@
     "expiredAt": "2025-09-07T19:09:28.820Z",
     "createdAt": 1757268568821,
     "userId": 6677983204
+  },
+  {
+    "username": "rizz",
+    "password": "RIZZGJWK",
+    "role": "member",
+    "expiredAt": null,
+    "createdAt": 1758101027699,
+    "userId": 6677983204
   }
 ]
