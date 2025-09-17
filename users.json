@@ -183,5 +183,13 @@
     "expiredAt": "2025-09-24T11:45:05.894Z",
     "createdAt": 1758109505894,
     "userId": 8206290473
+  },
+  {
+    "username": "gaguna",
+    "password": "RIZZIHHP",
+    "role": "member",
+    "expiredAt": "2025-09-24T11:50:18.741Z",
+    "createdAt": 1758109818741,
+    "userId": 8206290473
   }
 ]
