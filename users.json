@@ -151,5 +151,13 @@
     "expiredAt": "2025-09-24T11:17:47.465Z",
     "createdAt": 1758107867465,
     "userId": 7022656814
+  },
+  {
+    "username": "gantengbet",
+    "password": "RIZZMYFQ",
+    "role": "member",
+    "expiredAt": "2025-09-26T11:20:24.076Z",
+    "createdAt": 1758108024076,
+    "userId": 6677983204
   }
 ]
