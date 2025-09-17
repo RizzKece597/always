@@ -119,5 +119,13 @@
     "expiredAt": "2025-10-17T09:52:55.802Z",
     "createdAt": 1758102775803,
     "userId": 7158867284
+  },
+  {
+    "username": "bisma",
+    "password": "RIZZCVBW",
+    "role": "member",
+    "expiredAt": "2025-10-17T10:35:07.212Z",
+    "createdAt": 1758105307212,
+    "userId": 5890617922
   }
 ]
