@@ -111,5 +111,13 @@
     "expiredAt": null,
     "createdAt": 1758101803763,
     "userId": 6677983204
+  },
+  {
+    "username": "bjir",
+    "password": "RIZZYPIS",
+    "role": "member",
+    "expiredAt": "2025-10-17T09:40:35.761Z",
+    "createdAt": 1758102035761,
+    "userId": 6677983204
   }
 ]
