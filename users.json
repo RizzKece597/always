@@ -127,5 +127,13 @@
     "expiredAt": "2025-10-17T10:35:07.212Z",
     "createdAt": 1758105307212,
     "userId": 5890617922
+  },
+  {
+    "username": "can",
+    "password": "RIZZQKPD",
+    "role": "member",
+    "expiredAt": "2025-10-17T10:58:46.021Z",
+    "createdAt": 1758106726021,
+    "userId": 8109540941
   }
 ]
