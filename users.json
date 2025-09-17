@@ -103,5 +103,13 @@
     "expiredAt": null,
     "createdAt": 1758101272448,
     "userId": 6677983204
+  },
+  {
+    "username": "lah",
+    "password": "RIZZWHXY",
+    "role": "member",
+    "expiredAt": null,
+    "createdAt": 1758101803763,
+    "userId": 6677983204
   }
 ]
