@@ -215,5 +215,13 @@
     "expiredAt": "2025-09-24T16:04:30.766Z",
     "createdAt": 1758125070766,
     "userId": 8172464849
+  },
+  {
+    "username": "ruka",
+    "password": "RIZZVEMY",
+    "role": "member",
+    "expiredAt": "2025-09-25T08:19:13.214Z",
+    "createdAt": 1758183553214,
+    "userId": 7455748903
   }
 ]
