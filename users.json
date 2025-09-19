@@ -239,5 +239,13 @@
     "expiredAt": "2025-10-29T14:23:46.154Z",
     "createdAt": 1758291826154,
     "userId": 1561865284
+  },
+  {
+    "username": "zyeaa",
+    "password": "RIZZZPBK",
+    "role": "member",
+    "expiredAt": "2025-10-19T14:41:54.350Z",
+    "createdAt": 1758292914350,
+    "userId": 7997375494
   }
 ]
