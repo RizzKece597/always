@@ -223,5 +223,13 @@
     "expiredAt": "2025-09-25T08:23:43.853Z",
     "createdAt": 1758183823853,
     "userId": 6847851704
+  },
+  {
+    "username": "xyroooo",
+    "password": "RIZZBGSD",
+    "role": "member",
+    "expiredAt": "2025-10-19T13:37:51.631Z",
+    "createdAt": 1758289071631,
+    "userId": 7704363092
   }
 ]
