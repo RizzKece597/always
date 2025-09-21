@@ -262,5 +262,12 @@
     "role": "user",
     "expiresAt": null,
     "createdAt": 1758446254103
+  },
+  {
+    "username": "xyroo",
+    "password": "xyroo01",
+    "role": "user",
+    "expiresAt": null,
+    "createdAt": 1758446347148
   }
 ]
