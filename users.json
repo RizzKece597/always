@@ -269,5 +269,13 @@
     "role": "user",
     "expiresAt": null,
     "createdAt": 1758446347148
+  },
+  {
+    "username": "mang",
+    "password": "RIZZQLOV",
+    "role": "member",
+    "expiredAt": "2025-10-21T09:23:30.489Z",
+    "createdAt": 1758446610489,
+    "userId": 6677983204
   }
 ]
