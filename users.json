@@ -255,5 +255,12 @@
     "expiredAt": "2025-10-21T09:12:49.233Z",
     "createdAt": 1758445969233,
     "userId": 7455748903
+  },
+  {
+    "username": "linzzz",
+    "password": "linzz597",
+    "role": "user",
+    "expiresAt": null,
+    "createdAt": 1758446254103
   }
 ]
