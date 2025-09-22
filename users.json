@@ -285,5 +285,13 @@
     "expiredAt": "2025-10-21T11:12:55.841Z",
     "createdAt": 1758453175841,
     "userId": 7028980705
+  },
+  {
+    "username": "Putz",
+    "password": "RIZZMQHI",
+    "role": "member",
+    "expiredAt": "2025-10-22T09:57:33.542Z",
+    "createdAt": 1758535053542,
+    "userId": 5890617922
   }
 ]
